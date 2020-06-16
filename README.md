@@ -1,4 +1,5 @@
 # reactjs-demo
+mới tập dùng hit nên sử dụng git sai tùm lum
 
 {
   "name": "todoapp",
